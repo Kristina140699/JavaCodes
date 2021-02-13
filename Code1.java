@@ -21,7 +21,7 @@ numl = n;//private member accessed within the class
  }
  }
 
-public class Main//PrivateInheritance
+public class Code1//PrivateInheritance
  {
  public static void main(String[] args)
  {
